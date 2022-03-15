@@ -14,5 +14,13 @@ I'm also envisioning a fifth part to the project :
 ``` 
 Level : 2
 Status : Design in progress
-Hours spent : 0 hours 
+Hours spent : 2 hours 
 ```
+
+
+## UI Screens
+
+![Discover Screen](Screens/Discover_Screen.PNG)
+
+
+![Browse Screen](Screens/Browse_Screen_1.PNG)  ![Browse Screen 2](Screens/Browse_Screen_2.PNG)
