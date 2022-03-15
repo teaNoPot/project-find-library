@@ -20,7 +20,4 @@ Hours spent : 2 hours
 
 ## UI Screens
 
-![Discover Screen](Screens/Discover_Screen.PNG)
-
-
-![Browse Screen](Screens/Browse_Screen_1.PNG)  ![Browse Screen 2](Screens/Browse_Screen_2.PNG)
+![UI View](Screens/attempt_library1.gif)
