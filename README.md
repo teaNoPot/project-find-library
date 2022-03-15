@@ -13,6 +13,6 @@ I'm also envisioning a fifth part to the project :
 
 ``` 
 Level : 2
-Status : OnGoing
+Status : Design in progress
 Hours spent : 0 hours 
 ```
